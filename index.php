@@ -6,5 +6,6 @@
 </head>
 <body>
 	<h1>Sample</h1>
+	<p>Hi world</p>
 </body>
 </html>
