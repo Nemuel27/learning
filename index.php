@@ -5,8 +5,11 @@
 	<title>Test</title>
 </head>
 <body>
-	<h1>Sample</h1>
-	<p>Hi world</p>
-	<p>hello world</p>
+	<div class="container">
+		<div class="row">
+			<h1>Banner</h1>
+		</div>
+	</div>
+	
 </body>
 </html>
